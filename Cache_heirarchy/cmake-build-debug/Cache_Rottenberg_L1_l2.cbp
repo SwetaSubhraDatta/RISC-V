@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cache_Rottenberg_L1_l2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cache_Rottenberg_L1_l2">
+				<Option output="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Cache_Rottenberg_L1_l2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cache_Rottenberg_L1_l2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cache_Rottenberg_L1_l2/fast">
+				<Option output="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Cache_Rottenberg_L1_l2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cache_Rottenberg_L1_l2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Shloks_rob_sim_cache">
+				<Option output="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/libShloks_rob_sim_cache.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Shloks_rob_sim_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Shloks_rob_sim_cache/fast">
+				<Option output="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/libShloks_rob_sim_cache.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Shloks_rob_sim_cache/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rob/CLionProjects/Cache_heirarchy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rob/CLionProjects/Cache_heirarchy/main.cpp">
+			<Option target="Cache_Rottenberg_L1_l2"/>
+		</Unit>
+		<Unit filename="/Users/rob/CLionProjects/Cache_heirarchy/sim_cache.cpp">
+			<Option target="Shloks_rob_sim_cache"/>
+		</Unit>
+		<Unit filename="/Users/rob/CLionProjects/Cache_heirarchy/sim_cache.h">
+			<Option target="Shloks_rob_sim_cache"/>
+		</Unit>
+		<Unit filename="/Users/rob/CLionProjects/Cache_heirarchy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rob/CLionProjects/Cache_heirarchy/main.cpp
+iostream
+-
+sim_cache.h
+/Users/rob/CLionProjects/Cache_heirarchy/sim_cache.h
+
+/Users/rob/CLionProjects/Cache_heirarchy/sim_cache.h
+iostream
+-
+vector
+-
+math.h
+/Users/rob/CLionProjects/Cache_heirarchy/math.h
+fstream
+-
+

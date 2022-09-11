@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libShloks_rob_sim_cache.a CMakeFiles/Shloks_rob_sim_cache.dir/sim_cache.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libShloks_rob_sim_cache.a

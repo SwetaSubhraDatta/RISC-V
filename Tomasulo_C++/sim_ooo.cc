@@ -1,3 +1,13 @@
+/**
+ * @file sim_ooo.cc
+ * @author Sweta Subhra Datta
+ * @brief 
+ * @version 0.1
+ * @date 2022-09-11
+ * 
+ * @copyright MIT License 
+ * 
+ */
 #include "sim_ooo.h"
 #include <stdlib.h>
 #include <iostream>
